@@ -7,14 +7,14 @@ body {
   font-weight: 300; }
 
 .p1-gradient-bg, .thumb .overlay-bg {
-  background: -moz-linear-gradient(0deg, #cf4ddb 0%, #cf4ddb 100%);
-  background: -webkit-linear-gradient(0deg, #cf4ddb 0%, #cf4ddb 100%);
-  background: -ms-linear-gradient(0deg, #cf4ddb 0%, #cf4ddb 100%); }
+  background: -moz-linear-gradient(0deg, #cf4ddb 0%, #ffffff 100%);
+  background: -webkit-linear-gradient(0deg, #cf4ddb 0%, #ffffff 100%);
+  background: -ms-linear-gradient(0deg, #cf4ddb 0%, #ffffff 100%); }
 
 .p1-gradient-color {
-  background: -moz-linear-gradient(0deg, #cf4ddb 0%, #cf4ddb 100%);
-  background: -webkit-linear-gradient(0deg, #cf4ddb 0%, #cf4ddb 100%);
-  background: -ms-linear-gradient(0deg, #cf4ddb 0%, #cf4ddb 100%);
+  background: -moz-linear-gradient(0deg, #cf4ddb 0%, #ffffff 100%);
+  background: -webkit-linear-gradient(0deg, #cf4ddb 0%, #ffffff 100%);
+  background: -ms-linear-gradient(0deg, #cf4ddb 0%, #ffffff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; }
 
@@ -180,7 +180,7 @@ a {
     color: rgba(255, 255, 255, 0.5); }
 
 .site-section {
-  padding: 5em 0; }
+  padding: 2em 0; }
 
 .section-heading {
   margin-bottom: 30px;
